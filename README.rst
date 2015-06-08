@@ -1,12 +1,7 @@
 ldif3 - generate and parse LDIF data (see `RFC 2849`_).
 
-.. image:: https://pypip.in/v/ldif3/badge.png
-    :target: https://crate.io/packages/ldif3/
-    :alt: Latest PyPI version
-
-.. image:: https://pypip.in/d/ldif3/badge.png
-    :target: https://crate.io/packages/ldif3/
-    :alt: Number of PyPI downloads
+.. image:: https://badge.fury.io/py/ldif3.svg
+    :target: http://badge.fury.io/py/ldif3
 
 .. image:: https://travis-ci.org/xi/ldif3.svg
     :target: https://travis-ci.org/xi/ldif3
